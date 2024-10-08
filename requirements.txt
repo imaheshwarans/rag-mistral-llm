@@ -4,4 +4,6 @@ chromadb # Vector storage
 pytest
 boto3
 langchain_community
-pysqlite3-binary
+langchain_chroma
+langchain_aws
+# pysqlite3-binary # not required for python3.12 and above
